@@ -1,5 +1,5 @@
 import { mount, VueWrapper } from "@vue/test-utils";
-import { expect, it, describe, beforeEach, vi } from "vitest";
+import { expect, it, describe, beforeEach } from "vitest";
 import App from "../App.vue";
 
 // --- Hàm Helper ---
