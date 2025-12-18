@@ -1,0 +1,30 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Snapshot Test 1`] = `
+"<div data-v-7a7a37b1="" class="w-screen h-screen bg-neutral-950 flex items-center justify-center text-neutral-100">
+  <div data-v-7a7a37b1="" class="w-96 bg-neutral-800 p-4 rounded-lg">
+    <div data-v-7a7a37b1="" class="w-full max-w-md space-y-6">
+      <!-- Unit Selector -->
+      <div data-v-7a7a37b1="" class="flex justify-between items-center"><label data-v-7a7a37b1="" class="text-gray-400 text-sm font-medium block"> Unit </label>
+        <div data-v-7a7a37b1="" class="flex w-50 rounded-lg p-[2px] common-gray gap-3"><button data-v-7a7a37b1="" class="flex-1 py-2 rounded-md text-lg font-medium transition-colors selected-unit text-white"> % </button><button data-v-7a7a37b1="" class="flex-1 py-2 rounded-md text-lg font-medium transition-colors text-gray-500 hover:bg-gray-750"> px </button></div>
+      </div><!-- Value Adjuster -->
+      <div data-v-7a7a37b1="" class="flex justify-between items-center"><label data-v-7a7a37b1="" class="text-gray-400 text-sm font-medium block"> Value </label>
+        <div data-v-7a7a37b1="" class="common-gray w-50 rounded-lg flex items-center justify-between value-wrapper">
+          <div data-v-7a7a37b1="" class="relative"><button data-v-7a7a37b1="" class="text-white action-button text-2xl font-light w-12 h-12 rounded-l-lg transition-colors flex items-center justify-center"> − </button>
+            <!--v-if-->
+          </div><input data-v-7a7a37b1="" type="text" class="bg-transparent text-white text-[12px] font-medium text-center w-24 outline-none">
+          <div data-v-7a7a37b1="" class="relative"><button data-v-7a7a37b1="" class="text-white action-button text-2xl font-light w-12 h-12 rounded-r-lg transition-colors flex items-center justify-center"> + </button>
+            <!--v-if-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`toUpperCase 1`] = `
+"<div class="w-screen h-screen bg-neutral-950 flex items-center justify-center text-neutral-100">
+  <div class="w-96 bg-neutral-800 p-4 rounded-lg"> Your component go here </div>
+</div>"
+`;
